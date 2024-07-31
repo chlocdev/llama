@@ -29,6 +29,12 @@ chmod +x llava-v1.5-7b-q4.llamafile
 ./llava-v1.5-7b-q4.llamafile
 ```
 
+or
+
+```sh
+CUDA_VISIBLE_DEVICES=0 ./llava-v1.5-7b-q4.llamafile --gpu nvidia
+```
+
 6. Your browser should open automatically and display a chat interface.
 (If it doesn't, just open your browser and point it at http://localhost:8080)
 
