@@ -5,7 +5,7 @@ some notes about llama repos
 |---|---|---|
 |[LLaMA-Factory]()|||
 |[llama.cpp]()|||
-|[llamafile]()|||
+|[llamafile](llamafile/README.md)|llamafile lets you distribute and run LLMs with a single file||
 |[llamaindex]()|||
 |[ollama]()|||
 |[llama]()|||
