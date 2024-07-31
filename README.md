@@ -3,7 +3,7 @@ some notes about llama repos
 
 |Repo|Usage|Comment|
 |---|---|---|
-|[LLaMA-Factory]()|||
+|[LLaMA-Factory](./LLaMA-Factory)|||
 |[llama.cpp]()|||
 |[llamafile](llamafile/README.md)|llamafile lets you distribute and run LLMs with a single file||
 |[llamaindex]()|||
